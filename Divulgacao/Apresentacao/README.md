@@ -1,4 +1,4 @@
 # Divulgação: Apresentação do Projeto
 
-Nesta pasta inclua arquivos de slides que foram produzidos para apresentações do projeto e de seus resultados.
+Slide utilizado para apresentação e divulgação do projeto de software desenvolvido.
 
