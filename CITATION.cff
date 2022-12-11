@@ -2,30 +2,26 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Allan
+    given-names: Diego Pereira do Nascimento
+  - family-names: Matheus
+    given-names: de Sousa Cysneiros
+  - family-names: Nikolas
+    given-names: Augusto de Paula Batista
+  - family-names: Pedro
+    given-names: Murilo Ribeiro de Almeida
+  - family-names: Rafael
+    given-names: Augusto Prado Alves
+  - family-names: Robson
+    given-names: Tadeu da Cruz Santos
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Juliana
+    given-names: Amaral Baroni
 keywords:
-  - 
-  - 
+  - Biblioteca 
+  - Processos
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2022-12-11
