@@ -1,3 +1,5 @@
 # Documentação do Projeto
 
-Inclua documentação do projeto, como relatórios da PROEX.
+/relatorios para visualizar os relatorios gerados a partir da ferramenta SydleOne.
+
+Documentação geral do projeto.
