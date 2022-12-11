@@ -1,19 +1,20 @@
-# [Nome do projeto]
+# Biblioteca do Futuro
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
+O presente trabalho visa realizar transformação digital da empresa Biblioteca do Futuro através de mapeamento de processos e uso de ferramentas Low Code
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* Alan diego
+* Matheus Cysneiros
+* Nikolas Araujo
+* Pedro Murilo
+* Rafael augusto
+* Robson Santos
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* Juliana Amaral Baroni de Carvalho
 
 ## Instruções de utilização
 
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
+Não há instruções de utilização devido a forma de implementação da aplicação na plataforma Sydle One.
