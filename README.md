@@ -4,11 +4,11 @@ O presente trabalho visa realizar transformação digital da empresa Biblioteca 
 
 ## Alunos integrantes da equipe
 
-* Alan diego
+* Alan Nascimento
 * Matheus Cysneiros
 * Nikolas Araujo
 * Pedro Murilo
-* Rafael augusto
+* Rafael Augusto
 * Robson Santos
 
 ## Professores responsáveis
