@@ -6,7 +6,7 @@ O presente trabalho visa realizar transformação digital da empresa Biblioteca 
 
 * Allan Nascimento
 * Matheus Cysneiros
-* Nikolas Araujo
+* Nikolas Augusto
 * Pedro Murilo
 * Rafael Augusto
 * Robson Santos
